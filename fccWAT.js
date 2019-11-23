@@ -1,3 +1,6 @@
+//function that looks through array of objects (first arg) 
+//and returns array of objects that have matching name and value (2nd arg)
+
 function whatIsInAName(collection, source) {
     
     //create new var with keys of source
